@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/no.2.unity
+- path: "C:/Users/student/Desktop/\u65B0\u589E\u8CC7\u6599\u593E/0420end/Assets/game.unity"
   isLoaded: 1
   isActive: 1
